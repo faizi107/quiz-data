@@ -1,4 +1,4 @@
-
+{
   "quiz1": [
     {
       "question": "The _____________ tells everything in the computer how to Act.",
@@ -98,7 +98,9 @@
     {
       "question": "malware that has embedded kelogger to capture all the keystrokes and steal logins is considered",
       "type": "short answer",
-      "choices": [],
+      "choices": [
+        
+      ],
       "answer": "spyware",
       "correct": 0,
       "explanation": "spyware is malware that has embedded kelogger to capture all the keystrokes and steal logins is considered"
@@ -161,7 +163,9 @@
     {
       "question": "What type of malware infection demands payments in order to avoid being disabled?",
       "type": "short answer",
-      "choices": [],
+      "choices": [
+        
+      ],
       "answer": "ransomware",
       "correct": 0,
       "explanation": "ransomware attacks demand payment"
@@ -238,6 +242,5 @@
       "correct": 3,
       "explanation": "Computer programs and games are Softwares"
     }
-  ],
- 
-
+  ]
+}
